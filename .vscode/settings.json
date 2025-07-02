@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "files.autoSave": "onWindowChange",
+}
